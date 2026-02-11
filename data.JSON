@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nombre": "Matrix",
+        "genero": "Ciencia Ficción",
+        "precio": 1500,
+        "img": "https://imagenes.hobbyconsolas.com/files/image_640_360/uploads/imagenes/2025/04/12/69047ab8bb7b0.jpeg"
+    },
+    {
+        "id": 2,
+        "nombre": "El Padrino",
+        "genero": "Drama",
+        "precio": 1800,
+        "img": "https://diariohoynet.nyc3.cdn.digitaloceanspaces.com/adjuntos/galerias/000/624/0000624389.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Toy Story",
+        "genero": "Infantil",
+        "precio": 1200,
+        "img": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/518292de-1782-47c0-a96e-bd903a73d466/compose?aspectRatio=1.78&format=webp&width=1200"
+    }
+]
